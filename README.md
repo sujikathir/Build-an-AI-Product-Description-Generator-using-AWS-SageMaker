@@ -12,4 +12,4 @@ An AI-powered product description generator using AWS SageMaker and Flan-T5.
 - Hugging Face account
 
 ## Video Tutorial
-[![Watch the full tutorial on YouTube]]([https://www.youtube.com/channel/UC33mDatJHw2S2FlLPJP7tHg])
+[![Watch the full tutorial on YouTube](youtube icon.png)]([https://www.youtube.com/channel/UC33mDatJHw2S2FlLPJP7tHg])
